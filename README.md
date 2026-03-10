@@ -5,6 +5,9 @@
 </div>
 
 ##
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloTIFavaro&theme=dark&show_icons=true" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
