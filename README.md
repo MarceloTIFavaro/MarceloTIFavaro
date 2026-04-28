@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/tux-linux-penguin-pet-debian-gif-18420701210614916092" width="250" alt="Linux"/>
+  <img src="https://media.tenor.com/_6N6J2xPY_wAAAAi/tux-linux.gif" width="250" alt="Linux"/>
+  
 *"Falar é fácil, me mostre o código."* <br>
   — ** Linus Torvalds**
  
