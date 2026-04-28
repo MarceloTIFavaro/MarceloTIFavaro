@@ -1,24 +1,33 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?weight=500&size=22&color=FFFFFF&center=true&vCenter=true&width=524&lines=Ol%C3%A1!+Eu+sou+o+Marcelo+Favaro+;Seja+bem+vindo+ao+meu+perfil+!" alt="Typing SVG">
-  </a>
+  <img src="https://media.tenor.com/kGe0A0NBA8kAAAAj/one-piece-pixel.gif" width="250" alt="Luffy"/>
+
+  # Saudações, viajante!
+
+  *"Nossa maior glória não reside no fato de nunca cairmos, mas sim em levantarmo-nos sempre depois de cada queda."* <br>
+  — **Confúcio**
 </div>
 
-##
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcelo-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+### 👨‍💻 Sobre mim
+Meu nome é **João Pedro dos Santos Souza**, sou desenvolvedor e formando em Sistemas de Informações. Sou focado em construir soluções eficientes e aplicar meus conhecimentos para resolver problemas reais. Acredito que a consistência e o aprendizado contínuo são fundamentais para transformar ideias complexas em softwares de alto impacto e qualidade.
+
+### 🛠️ Tecnologias e Ferramentas
+Abaixo estão as principais tecnologias que utilizo atualmente no desenvolvimento de projetos e aplicações:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="Handlebars"/>
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/marcelo-favaro-98b37726b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marcelo.henrique1_?igsh=dmh0bnVpOXFvZ3N6" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### 📬 Contato
+*(Sinta-se à vontade para entrar em contato comigo e saber mais sobre meu trabalho.)*
+
+<div align="center">
+  <a href="mailto:joaoopedrosantos003@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/joão-pedro-dos-santos-souza-52886426a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
-
-<picture>
