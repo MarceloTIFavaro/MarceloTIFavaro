@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.tenor.com/DrdU6bRAfusAAAAi/bulbasaur-pokemon.gif" width="250" alt="bulbasaur"/>
-
+  <img src="https://tenor.com/pt-BR/view/tux-linux-penguin-pet-debian-gif-18420701210614916092" width="250" alt="Linux"/>
+*"Falar é fácil, me mostre o código."* <br>
+  — ** Linus Torvalds**
  
 </div>
 
@@ -16,7 +17,7 @@ Sou um amante de Linux e gosto muito da liberdade e da experiência que ele prop
 
 ### Technologies and Tools
 
-Aqui estão algumas das principais tecnologias que utilizo atualmente no desenvolvimento de projetos e aplicações:
+Algumas das ferramentas de meu conhecimento:
 
 
 <div align="center">
@@ -31,7 +32,7 @@ Aqui estão algumas das principais tecnologias que utilizo atualmente no desenvo
 ---
 
 ### Contact
-*(Sinta-se à vontade para entrar em contato comigo e saber mais sobre meu trabalho.)*
+Para entrar em contato comigo e saber mais sobre mim, entre em contato:
 
 <div align="center">
   <a href="mailto:mfavaro53@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
