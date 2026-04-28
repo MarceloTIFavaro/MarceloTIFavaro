@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/bulbasaur-pokemon-gif-23125952" width="250" alt="bulbasaur"/>
+  <img src="https://media.tenor.com/DrdU6bRAfusAAAAi/bulbasaur-pokemon.gif" width="250" alt="bulbasaur"/>
 
   # Saudações, viajante!
 
