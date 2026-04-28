@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/_6N6J2xPY_wAAAAi/tux-linux.gif" width="250" alt="Linux"/>
   
 *"Falar é fácil, me mostre o código."* <br>
-  — ** Linus Torvalds**
+  — **Linus Torvalds**
  
 </div>
 
