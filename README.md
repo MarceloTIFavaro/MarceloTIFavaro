@@ -5,7 +5,7 @@
 </div>
 
 ---
-### 👨‍💻 About me
+### About me
 
 Meu nome é **Marcelo**, sou estudante de Bacharelado em Sistemas de Informação e apaixonado por tecnologia, desenvolvimento e tudo aquilo que transforma ideia em solução de verdade.
 
@@ -14,12 +14,13 @@ Gosto de construir projetos para me exercitar e estar sempre preparado para dese
 Sou um amante de Linux e gosto muito da liberdade e da experiência que ele proporciona. Tenho uma grande afinidade com Python e com frameworks como Django, que tornam o desenvolvimento mais prático, organizado e eficiente.
 
 
-### 🛠️ Tecnologias e Ferramentas
+### Technologies and Tools
 
 Aqui estão algumas das principais tecnologias que utilizo atualmente no desenvolvimento de projetos e aplicações:
 
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -29,7 +30,7 @@ Aqui estão algumas das principais tecnologias que utilizo atualmente no desenvo
 
 ---
 
-### 📬 Contato
+### Contact
 *(Sinta-se à vontade para entrar em contato comigo e saber mais sobre meu trabalho.)*
 
 <div align="center">
